@@ -37,11 +37,11 @@ character_catalog
 
 ### Character checklist
 
-- [ ] think about the character and choose a character name
-- [ ] duplicate a `character` folder and rename it to your character's name
-- [ ] update your character name and id in `config.yaml`
-- [ ] update the system prompt in `config.yaml` to define the character
-- [ ] add documents to `data` to enhance the character's knowledge
+- [V ] think about the character and choose a character name
+- [V ] duplicate a `character` folder and rename it to your character's name
+- [V ] update your character name and id in `config.yaml`
+- [V ] update the system prompt in `config.yaml` to define the character
+- [V ] add documents to `data` to enhance the character's knowledge
 - [ ] (optional) customize the character's voice
 - [ ] (optional) customize the character's avatar
-- [ ] (optional) customize the user prompt in `config.yaml` file for advanced context control (in general you don't need to)
+- [V ] (optional) customize the user prompt in `config.yaml` file for advanced context control (in general you don't need to)
